@@ -12,7 +12,7 @@
 - <b>Python</b>
   - (INSERT HERE)
 
-<h2>CyberSecurity Projects</h2>
+<h2>CyberSecurity Projects:</h2>
 
 - <b>Installation and Management of SIEM on server<b/> (Splunk)
   - (INSERT HERE)
